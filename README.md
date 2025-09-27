@@ -61,3 +61,5 @@ pip install -r requirements.txt
 ├── models/ # Saved models
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+
+📄 Read the full project report [[here](https://github.com/ujwalwag/OCTMNIST-Retinal-OCT-Image-Classification/blob/main/docs/a0_part3_50560587.pdf)](./a0_part3_50560587.pdf).
