@@ -55,10 +55,9 @@ pip install -r requirements.txt
 ---
 
 ## 📂 Repository Structure
-├── data/ # Placeholder for OCTMNIST data
+├── data/ # Placeholder for OCTMNIST data(there's no dataset here)
 ├── notebooks/ # Jupyter notebooks for EDA & training
 ├── docs/ # Report
 ├── models/ # Saved models
-├── a0_part3_50560587.pdf # Full project report
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation

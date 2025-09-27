@@ -1,0 +1,24 @@
+# Dataset
+medmnist
+
+# Core
+numpy
+pandas
+
+# PyTorch stack (CPU by default; swap to CUDA wheels if needed)
+torch
+torchvision
+torchaudio
+torchinfo
+
+# ML & utilities
+scikit-learn
+tqdm
+pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks (optional)
+jupyter
