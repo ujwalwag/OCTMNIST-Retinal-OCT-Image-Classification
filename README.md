@@ -4,6 +4,7 @@ This project explores deep learning techniques for classifying retinal OCT image
 The work includes preprocessing, visualization, and training convolutional neural networks (CNNs) with architectural improvements such as **Batch Normalization** and **Learning Rate Scheduling**, achieving validation accuracy above 93%.  
 
 ---
+📄 Read the full project report [here](https://github.com/ujwalwag/OCTMNIST-Retinal-OCT-Image-Classification/blob/main/docs/a0_part3_50560587.pdf)
 
 ## 📊 Dataset
 - **Source**: [MedMNIST – OCTMNIST](https://medmnist.com/)  
@@ -62,4 +63,3 @@ pip install -r requirements.txt
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
-📄 Read the full project [report](https://github.com/ujwalwag/OCTMNIST-Retinal-OCT-Image-Classification/blob/main/docs/a0_part3_50560587.pdf) 
